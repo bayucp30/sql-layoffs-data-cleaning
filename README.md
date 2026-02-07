@@ -34,5 +34,5 @@ Files:
 Final table `layoffs2026_clean` is fully standardized and ready for analysis or visualization.
 
 ---
-← Back to Portfolio  
+← Back to Portfolio
 https://github.com/bayucp30/Portfolio-Data-Analyst
